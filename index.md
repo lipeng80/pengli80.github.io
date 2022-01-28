@@ -6,10 +6,13 @@ Associate Researcher
 Institute of Software  
 Chinese Academy of Sciences*
 
+I use standard HTML tags, like
+
+<!---
 Currently, I am leading two projects:
 * [AiSketcher](http://www.aisketcher.com) (with [Prof. Fei Gao](http://aiart.live)): AI Drawing Robot. 
-*【  * [RoboGo](http://www.openrobot.net/dog): Quadruped Robot.】
-
+*[RoboGo](http://www.openrobot.net/dog): Quadruped Robot.
+--->
 
 ## Experiences
 * 2020.09 - Present, Co-founder and CEO, [Hangzhou Aisketcher Co. Ltd](http://miaohui.art)
